@@ -1,0 +1,16 @@
+#buttons {
+    width: 300px;
+    margin: 50px auto 0 auto;
+}
+
+#sortSelector {
+    float: right;
+}
+
+#goButton {
+    float:right; 
+}
+
+#spectre {
+    margin: 50px auto;
+}
