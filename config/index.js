@@ -3,7 +3,8 @@ require.config({
     paths: {
         lib: "../lib",
         root: "../",
-        jquery: "jquery/dist/jquery.min"
+        jquery: "jquery/dist/jquery.min",
+        jcanvas: "jcanvas/jcanvas.min"
     }
 });
 

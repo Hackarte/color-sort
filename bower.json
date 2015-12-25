@@ -21,6 +21,7 @@
   ],
   "dependencies": {
     "jquery": "~2.1.4",
-    "requirejs": "~2.1.22"
+    "requirejs": "~2.1.22",
+    "jcanvas": "~15.12.12"
   }
 }
