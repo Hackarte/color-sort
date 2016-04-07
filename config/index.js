@@ -1,5 +1,5 @@
 require.config({
-    baseUrl: "./bower_components",
+    baseUrl: "./node_modules",
     paths: {
         lib: "../lib",
         root: "../",
