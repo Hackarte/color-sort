@@ -1,0 +1,28 @@
+{
+  "name": "color-sort",
+  "version": "0.0.1",
+  "description": "Hackarte: Sort by color project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackarte/color-sort.git"
+  },
+  "keywords": [
+    "color",
+    "sort"
+  ],
+  "author": "Vitor Alano de Ataides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hackarte/color-sort/issues"
+  },
+  "homepage": "https://github.com/Hackarte/color-sort#readme",
+  "dependencies": {
+    "jcanvas": "^16.4.1",
+    "jquery": "^2.2.3",
+    "requirejs": "^2.2.0"
+  }
+}
